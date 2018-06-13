@@ -24,7 +24,7 @@ After the registration process is completed, the active tab will be reloaded aut
 
 
 ## Limitation
-Once you put URL in the list by using this extension, the URL will keep being either in the Allow or in the Blcok section. To remove the URL from the list, this extesion needs to be removed. Please see below to find how to uninstall this extention.
+Once you put URL in the list by using this extension, the URL will keep being either in the Allow or in the Blcok section. To remove the URL from the list, this extension needs to be removed from Chrome. Please see below for finding how to uninstall this extention.
 
 ## Uninstall
 1. Launch Chrome, and then open `chrome://extensions/`
