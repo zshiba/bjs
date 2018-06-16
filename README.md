@@ -13,6 +13,8 @@ $ git clone https://github.com/zshiba/bjs.git
 6. If the installation succeeds, then a button with `b` will appear next to the URL bar.
 7. Disable **Developer mode**.
 
+![install](https://github.com/zshiba/bjs/blob/master/install.jpg)
+
 ## How It Works
 By clicking the `b` button intorduced by this extension, you register (the origin of) URL of the current site, shown in the active tab, to the list that you can find at `chrome://settings/content/javascript`
 
@@ -21,7 +23,7 @@ By clicking the `b` button intorduced by this extension, you register (the origi
 
 After the registration process is completed, the active tab will be reloaded automatically.
 * If JavaScript is blocked on the current page, then an icon appears next to the bookmark button in the URL bar.
-
+![block](https://github.com/zshiba/bjs/blob/master/block.jpg)
 
 ## Limitation
 Once you put URL in the list by using this extension, the URL will keep being either in the Allow or in the Block section. To remove the URL from the list, this extension needs to be removed from Chrome.
