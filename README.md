@@ -14,7 +14,7 @@ $ git clone https://github.com/zshiba/bjs.git
 7. Disable **Developer mode**.
 
 ## How It Works
-By clicking the `b` button intorduced by this extention, you register (the origin of) URL of the current site, shown in the active tab, to the list that you can find at `chrome://settings/content/javascript`
+By clicking the `b` button intorduced by this extension, you register (the origin of) URL of the current site, shown in the active tab, to the list that you can find at `chrome://settings/content/javascript`
 
 * If (the origin of) the URL has not been registered yet or is appearing in the Allow section already, then (the origin of) the URL is put in the Block section.
 * If (the origin of) the URL is appearing in the Block section already, then (the origin of) the URL is put in the Allow section.
