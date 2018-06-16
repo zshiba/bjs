@@ -6,7 +6,7 @@ This is a tiny Google Chrome extension that lets you block / allow JavaScript on
 ```bash
 $ git clone https://github.com/zshiba/bjs.git
 ```
-2. Launch Chrome, and then open `chrome://extensions/`
+2. Launch Chrome, and then open `chrome://extensions`
 3. Enable **Developer mode**.
 4. Click **LOAD UNPACKED**.
 5. Select the **bjs** directory.
