@@ -29,7 +29,7 @@ After the registration process is completed, the active tab will be reloaded aut
 Once you put URL in the list by using this extension, the URL will keep being either in the Allow or in the Block section. To remove the URL from the list, this extension needs to be removed from Chrome.
 
 ## Uninstall
-1. Launch Chrome, and then open `chrome://extensions/`
+1. Launch Chrome, and then open `chrome://extensions`
 2. Click **REMOVE** for bjs.
 
 ## Development Environment
